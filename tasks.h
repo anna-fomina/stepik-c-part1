@@ -7,3 +7,6 @@ void task_4_5();
 void task_5_1();
 void task_5_3();
 void task_6_1();
+void task_6_2();
+void task_6_3();
+void task_6_4();

@@ -123,12 +123,17 @@
     <ClCompile Include="task_4_5.cpp" />
     <ClCompile Include="task_5_3.cpp" />
     <ClCompile Include="task_6_1.cpp" />
+    <ClCompile Include="task_6_2.cpp" />
+    <ClCompile Include="task_6_3.cpp" />
+    <ClCompile Include="task_6_4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array.h" />
     <ClInclude Include="expression.h" />
+    <ClInclude Include="ICloneable.h" />
     <ClInclude Include="nod_nok.h" />
     <ClInclude Include="rational.h" />
+    <ClInclude Include="SameType.h" />
     <ClInclude Include="scopedPtr.h" />
     <ClInclude Include="sharedPtr.h" />
     <ClInclude Include="string.h" />

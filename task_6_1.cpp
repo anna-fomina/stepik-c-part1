@@ -2,6 +2,7 @@
 #include <cstddef>
 #include <string>
 #include "array.h"
+#include "ICloneable.h"
 using namespace std;
 /*
 Класс с закрытым оператором присваивания:
@@ -48,14 +49,14 @@ void test7();
 void task_6_1() 
 {
 	setlocale(LC_ALL, "");
-	test0();
-	test1();
-	test2();
-	test3();
-	test4();
-	test5();
-	test6();
-	test7();
+	//test0();
+	//test1();
+	//test2();
+	//test3();
+	//test4();
+	//test5();
+	//test6();
+	//test7();
 
 	return;
 }
